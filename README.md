@@ -18,3 +18,4 @@ In this project we will learn how to use a variety of DOM selectors and manipula
 - [ ] Use Chrome to navigate to the URL indicated by the output of `npm start`.
 
 Have fun!!!!
+Use Postman
